@@ -18,7 +18,7 @@ The application helps the user to create a work schedule where they could input 
 <!-- /vscode-markdown-toc -->
 
 ##  <a name='DeployedPage'></a>Deployed Page
-- ![Deployed Page Screenshot]()
+- ![Deployed Page Screenshot](screenshot.png)
 
 - [Deployed Github Page](https://beatak777.github.io/)
 
@@ -35,6 +35,7 @@ No Installation necessary although it is not forbidden to do so. If you decide t
 - Code refactoring by [Bea Konya](https://github.com/beatak777).
 - Additional guidance received from a coder friend who wished to stay anonymous.
 - Table of Contents was Created with the Visual Studio Code Extension 'Markdown TOC' available [here](https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
+- ChatGPT provided help at times when my code was not working properly.
 
 
 ##   <a name='License'></a>License
