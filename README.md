@@ -1,13 +1,12 @@
 # Work Day Scheduler
 
 ##  <a name='Description'></a>Description
-
+The application helps the user to create a work schedule where they could input their tasks broken down by hour. The current hour will show a different colour on the screen in this case red but it is changeable. While the past hours will appear grey, the upcoming hours appear green. The user is able to save their tasks on local storage.
 
 
 ##  <a name='TableofContents'></a>Table of Contents
 <!-- vscode-markdown-toc -->
 *  [Deployed Page](#DeployedPage)
-*  [Comments](#Comments)
 *  [Installation](#Installation)
 *  [Credits](#Credits)
 *  [License](#License)
@@ -23,9 +22,6 @@
 
 - [Deployed Github Page](https://beatak777.github.io/)
 
-##  <a name='Comments'></a>Comments
-
-- 
 
 ##   <a name='Installation'></a>Installation
 No Installation necessary although it is not forbidden to do so. If you decide to install here are the steps for you:
@@ -37,7 +33,7 @@ No Installation necessary although it is not forbidden to do so. If you decide t
 
 - Default files provided by [edX Bootcamp](https://www.edx.org/course/skills-bootcamp-in-front-end-web-development).
 - Code refactoring by [Bea Konya](https://github.com/beatak777).
-- Additional guidance received from []() .
+- Additional guidance received from a coder friend who wished to stay anonymous.
 - Table of Contents was Created with the Visual Studio Code Extension 'Markdown TOC' available [here](https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
 
 

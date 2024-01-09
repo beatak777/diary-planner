@@ -1,3 +1,4 @@
+
 var today = dayjs().format("dddd, MMMM DD YYYY ");
 
 var now = dayjs().format("H A");
@@ -6,6 +7,9 @@ $("#currentDay").text(today);
 
 //current hour and timeblocks
 var currentHour = dayjs().hour();
+
+const timeblockAs = $(".time-block");
+const saveBtnAs = $(".saveBtn");
 
 $(".time-block").each(function () {
     var blockHour = parseInt($(this).data("hour"));
@@ -19,7 +23,7 @@ $(".time-block").each(function () {
 });
 
 // saving option for save button
-saveBtnEl.on("click", function (e) {
+saveBtnAs.on("click", function (e) {
     e.preventDefault();
 
     let content = $(this).siblings(".description").val();
@@ -30,7 +34,7 @@ saveBtnEl.on("click", function (e) {
 
 //to retrieve the data from ls
 
-timeblockEl.each(function () {
+timeblockAs.each(function () {
     $(this).children(".description").val(localStorage.getItem($(this).attr("data-hour")))
 
 })
