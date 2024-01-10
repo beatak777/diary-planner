@@ -20,7 +20,7 @@ The application helps the user to create a work schedule where they could input 
 ##  <a name='DeployedPage'></a>Deployed Page
 - ![Deployed Page Screenshot](screenshot.png)
 
-- [Deployed Github Page](https://beatak777.github.io/)
+- [Deployed Github Page](https://beatak777.github.io/diary-planner/)
 
 
 ##   <a name='Installation'></a>Installation
